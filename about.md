@@ -17,7 +17,7 @@ layout: page
 	<li>PHP</li>
 	<li>Python</li>
 	<li>MySQL</li>
-	<li>C and C++/li>
+	<li>C and C++</li>
 	<li>Java</li>
 </ul>
 
