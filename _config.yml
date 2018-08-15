@@ -16,7 +16,7 @@ picture: assets/images/thug.png
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
 
-url: https://inf1si.github.io
+url: https://www.inf1-si.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: inf1si # enter this from your disqus account
   categories: [blog, project, writings, writing] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
