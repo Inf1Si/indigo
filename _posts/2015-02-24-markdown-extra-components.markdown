@@ -1,7 +1,7 @@
 ---
 title: "1. 세계관"
 layout: post
-date: 2016-02-24 22:48
+date: 2018-08-15 20:57
 image: /assets/images/markdown.jpg
 writings: true
 headerImage: false
