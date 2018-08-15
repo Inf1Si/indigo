@@ -1,14 +1,13 @@
 ---
-title: "Markdown Extra Components"
+title: "1. 세계관"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 writings: true
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- PlanetAtWar
+- prologue
 category: writings
 author: jamesfoster
 description: Markdown summary with different options
