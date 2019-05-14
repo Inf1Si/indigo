@@ -108,6 +108,8 @@ show-author: true
 # do you want some animations?
 animation: true
 
+markdown: kramdown
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
