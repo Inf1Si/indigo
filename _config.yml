@@ -108,7 +108,9 @@ show-author: true
 # do you want some animations?
 animation: true
 
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["footnotes"]
 
 plugins:
   - jekyll-seo-tag
