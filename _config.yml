@@ -108,8 +108,8 @@ show-author: true
 # do you want some animations?
 animation: true
 
-markdown: redcarpet
-redcarpet:
+markdown: kramdown
+kramdown:
   extensions: ["footnotes"]
 
 plugins:
