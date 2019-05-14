@@ -12,11 +12,10 @@ layout: page
 <ul class="skill-list">
 	<li>SF writing</li>
 	<li>HTML</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>Javascript</li>
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL</li>
 	<li>C and C++</li>
 	<li>Java</li>
 </ul>
