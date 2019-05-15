@@ -109,8 +109,6 @@ show-author: true
 animation: true
 
 markdown: kramdown
-kramdown:
-  extensions: ["footnotes"]
 
 plugins:
   - jekyll-seo-tag
