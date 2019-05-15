@@ -3,7 +3,20 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="en">
-
+<script type="text/javascript" src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+<script type="text/javascript" src="/js/bigfoot.min.js"></script>
+<script type="text/javascript">
+        var bigfoot = $.bigfoot(
+                       {
+                           actionOriginalFN: "ignore",
+                           positionContent: "true",
+                           activateOnHover: "true",
+                           allowMultipleFN: "true",
+                           deleteOnUnhover: "true"
+                       }
+        );
+    </script>
+<link href='https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css' rel='stylesheet' type='text/css'>
 <head>
 
     <meta charset="utf-8">
