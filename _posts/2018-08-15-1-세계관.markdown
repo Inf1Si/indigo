@@ -14,16 +14,6 @@ description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-Testing [^1]
-[^1]: this is just a simple test
-<sup id="fnref:1">
-    <a href="#fn:1" rel="footnote">1</a>
-</sup>
-<div class="footnotes"><ol>
-    <li class="footnote" id="fn:1">
-        <p>footnote.<a href="#fnref:1" title="return to article"> return</a><p>
-    </li>
-</ol></div>
 
 ### 1. 서사시의 시작Beginning of the Epic
 -----------
