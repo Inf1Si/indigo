@@ -25,7 +25,8 @@ description: Markdown summary with different options
     </p>
 </div>
 
-### 2. 대분쟁의 날the Day of Great Conflict [^1] 
+### 2. 대분쟁의 날the Day of Great Conflict
+My dear Old friend[^1].
 <div>
     <p>
  인류 연방국, 통칭 UNH는 새로운 자원 발굴과 외계 문명 탐색, 아득한 우주에 대한 정복욕을 이유로 다른 셀 수 없는 행성계들은 물론 일부긴 하지만 마젤란 은하와 같은 외은하까지도 세력을 뻗어나갔고 인간의 세력 범위는 가없이 광대해졌다. 이와 같은'우주 대항해시대'를 통해 마치 엄청난 인플레이션과 같이 단기간의 인간의 거대한 세력 확장은 UNH에게 크나큰 부담이 되기 시작했다. 그들은 방대한 인류의 세력을 통제 할 수 없는 지경에까지 이르게 된 것이다.
