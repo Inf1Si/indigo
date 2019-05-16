@@ -4,10 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>SF writer</p>
-<p>noob AI researcher</p>
+<p>Science fiction writer</p>
+<p>n00000b AI researcher</p>
 <p>Optimization Lab</p>
-<p>Currently working in NEXON as game programmer</p>
+<p>Currently working for NEXON as game programmer.</p>
 
 <h2>Skills</h2>
 
