@@ -9,7 +9,7 @@ n00000b AI researcher.</p>
 <p><a href="http://soar.snu.ac.kr/" title="최적화 연구실" target="_blank">
         Optimization Lab
     </a></p>
-Currently working for <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Nexon_Logo.svg" style="width:100px;" alt="NEXON" align="middle" /> as a game programmer.
+Currently working for NEXON as a game programmer.
 
 <h2>Skills</h2>
 
