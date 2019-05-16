@@ -6,10 +6,10 @@ layout: page
 
 <p>Science fiction writer, but not that cool.<br/>
 n00000b AI researcher.</p>
-<p><a href="https://soar.snu.ac.kr/" title="최적화 연구실">
+<p><a href="http://soar.snu.ac.kr/" title="최적화 연구실">
         Optimization Lab
     </a></p>
-<p>Currently working for <img src="company.png" width="100" alt="NEXON" /> as a game programmer.</p>
+<p>Currently working for <img src="assets/images/company.png" width="100" alt="NEXON" /> as a game programmer.</p>
 
 <h2>Skills</h2>
 
