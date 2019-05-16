@@ -16,4 +16,4 @@ description: Markdown summary with different options
 # New features
 * bigfoot.js footnotes
 * wider text space
-* new board for fictions
+* additional board for my writings
