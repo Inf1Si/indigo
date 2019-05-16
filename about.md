@@ -4,12 +4,20 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Science fiction writer, but not that cool.<br/>
-n00000b AI researcher.</p>
-<p><a href="http://soar.snu.ac.kr/" title="최적화 연구실" target="_blank">
+<p>
+	Science fiction writer, but not that cool.<br/>
+	n00000b AI researcher.<br/>
+	non smoking for good
+</p>
+<p>
+	<a href="http://soar.snu.ac.kr/" title="최적화 연구실" target="_blank">
         Optimization Lab
-    </a></p>
-Currently working for NEXON as a game programmer.
+    </a>
+</p>
+
+<p>
+	Currently working for NEXON as a game programmer.
+</p>
 
 <h2>Skills</h2>
 
