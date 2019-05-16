@@ -1,0 +1,18 @@
+---
+title: "New Blog"
+layout: post
+date: 2019-05-16 19:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: inf1si
+description: Markdown summary with different options
+---
+
+# New features
+* bigfoot.js footnotes
+* wider text space
