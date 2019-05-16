@@ -6,6 +6,8 @@ layout: page
 
 <p>SF writer</p>
 <p>noob AI researcher</p>
+<p>Optimization Lab</p>
+<p>Currently working in NEXON as game programmer</p>
 
 <h2>Skills</h2>
 
