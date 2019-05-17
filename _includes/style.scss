@@ -25,14 +25,10 @@
 @import "components/spoiler";
 
 
-@import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
-@font-face {
-	  font-family: "NanumBarunGothic";
-		  src: url( '../_assets/NanumBarunGothic_0.ttf') format( 'truetype');
-}
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
 
 body {
-    font-family: 'NanumBarunGothic', serif;
+    font-family: 'Nanum Gothic', serif;
 }
 
 /* 블로그 들어갔을때 글 제목 폰트 변경*/
@@ -40,7 +36,7 @@ div {
     article{
         h2{
             a{
-                font-family: 'NanumBarunGothic', serif;
+                font-family: 'Nanum Gothic', serif;
             }
         }
     }
@@ -50,7 +46,7 @@ article{
     div{
         header{
             h1{
-                font-family: 'NanumBarunGothic', serif;
+                font-family: 'Nanum Gothic', serif;
             }
         }
     }
@@ -59,7 +55,7 @@ article{
     div{
         section{
             h2{
-                font-family: 'NanumBarunGothic', serif;
+                font-family: 'Nanum Gothic', serif;
             }
         }
     }
@@ -68,7 +64,7 @@ div{
     article{
         div{
             a{
-                font-family: 'NanumBarunGothic', serif;
+                font-family: 'Nanum Gothic', serif;
             }
         }
     }
