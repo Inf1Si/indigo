@@ -26,9 +26,13 @@
 
 
 @import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+@font-face {
+	  font-family: "NanumBarunGothic";
+		  src: url( '../_assets/NanumBarunGothic_0.ttf') format( 'truetype');
+}
 
 body {
-    font-family: 'Nanum Gothic Coding', serif;
+    font-family: 'NanumBarunGothic', serif;
 }
 
 /* 블로그 들어갔을때 글 제목 폰트 변경*/
@@ -36,7 +40,7 @@ div {
     article{
         h2{
             a{
-                font-family: 'Nanum Gothic Coding', serif;
+                font-family: 'NanumBarunGothic', serif;
             }
         }
     }
@@ -46,7 +50,7 @@ article{
     div{
         header{
             h1{
-                font-family: 'Nanum Gothic Coding', serif;
+                font-family: 'NanumBarunGothic', serif;
             }
         }
     }
@@ -55,7 +59,7 @@ article{
     div{
         section{
             h2{
-                font-family: 'Nanum Gothic Coding', serif;
+                font-family: 'NanumBarunGothic', serif;
             }
         }
     }
@@ -64,7 +68,7 @@ div{
     article{
         div{
             a{
-                font-family: 'Nanum Gothic Coding', serif;
+                font-family: 'NanumBarunGothic', serif;
             }
         }
     }
