@@ -16,20 +16,19 @@ layout: page
 </p>
 
 <p>
-	Currently working for NEXON as a game programmer.
+	Former game programmer at NEXON.
+	Currently working at Naver Webtoon as a AI scientist.
 </p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>SF writing</li>
-	<li>HTML</li>
-	<li>Javascript</li>
 	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>C and C++</li>
-	<li>Java</li>
+	<li>Machine Learning</li>
+	<li>Stochastic Optimization</li>
+	<li>Metaheuristics</li>
 </ul>
 
 <h2>Projects</h2>
