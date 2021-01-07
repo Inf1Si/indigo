@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-	Science fiction writer, but not that cool.<br/>
+	Science fiction writer.<br/>
 	n00000b AI researcher.<br/>
 	Non-smoker for good.
 </p>
