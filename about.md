@@ -17,6 +17,7 @@ layout: page
 
 <p>
 	Former game programmer at NEXON.
+	<br/>
 	Currently working at Naver Webtoon as a AI scientist.
 </p>
 
