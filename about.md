@@ -7,7 +7,7 @@ layout: page
 <p>
 	Science fiction writer, but not that cool.<br/>
 	n00000b AI researcher.<br/>
-	Non smoking for good.
+	Non-smoker for good.
 </p>
 <p>
 	<a href="http://soar.snu.ac.kr/" title="최적화 연구실" target="_blank">
